@@ -7,3 +7,5 @@
 - Wants to professionalize me on the blockchain ₿.
 
 ## 🌐 My portfolio
+
+[https://p3titcr0c0.github.io/portfolio/](https://p3titcr0c0.github.io/portfolio/)
