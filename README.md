@@ -2,9 +2,9 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🧍‍♂️ 20 yo.
+- 🧍‍♂️ 21 yo.
 - 🎓 Computer science student.
-- Wants to professionalize me on the blockchain ₿.
+- Interested in the blockchain ₿.
 
 ## 🌐 My portfolio
 
