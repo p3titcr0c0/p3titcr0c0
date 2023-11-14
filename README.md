@@ -2,8 +2,8 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🧍‍♂️ 21 yo.
-- 🎓 Computer science student.
+- 🧍‍♂️ 22 yo.
+- 🎓 Computer science student, AI & Cyber.
 - Interested in the blockchain ₿.
 
 ## 🌐 My portfolio
