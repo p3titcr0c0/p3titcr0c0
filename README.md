@@ -2,9 +2,9 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🧍‍♂️ 22 yo.
-- 🎓 Computer science student, AI & Cyber.
-- Interested in the blockchain ₿.
+- French junior Dev.
+- 🎓 Master degree computer science student and AI.
+- Interested in web3.
 
 ## 🌐 My portfolio
 
