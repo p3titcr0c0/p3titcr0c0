@@ -1,5 +1,3 @@
-[<img src="https://raw.githubusercontent.com/0xmathisd/0xmathisd/main/intro.gif" alt="👋 Hi there! My name is mathis" title="👋 Hi there! My name is mathis"/>](https://0xmathisd.github.io/portfolio/)
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - French junior Dev.
