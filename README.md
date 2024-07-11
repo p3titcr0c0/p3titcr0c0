@@ -6,4 +6,4 @@
 
 ## 🌐 My portfolio
 
-[https://0xmathisd.github.io/portfolio/](https://0xmathisd.github.io/portfolio/)
+[https://0xmathisd.github.io/portfolio/](https://0xmathisd.github.io/)
