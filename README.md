@@ -1,8 +1,8 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - French junior Dev.
-- 🎓 Master degree computer science student and AI.
-- Interested in web3.
+- 🎓 Master degree computer science student.
+- Interested in web3 and AI.
 
 ## 🌐 My portfolio
 
